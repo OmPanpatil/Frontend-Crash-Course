@@ -43,3 +43,8 @@ function functionname(){
 functionname(); // calling function
 
 // Indepth some more important points: js mein functions first class functions hote hain, yani ki js mein functions ek variable ki tarah use ho sakte hain.
+
+// what is functions?
+// Functions are a set of statements that perform a task or calculate a value.
+// Functions are reusable pieces of code.
+// Functions are used to perform the same task multiple times.
