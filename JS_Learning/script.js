@@ -229,3 +229,8 @@ function returnfunctionkarega(){
 
 var yahahorahaireturn = returnfunctionkarega();
 console.log(yahahorahaireturn());
+
+// Parameters and Arguments:
+// Parameters are the names used in the function definition. which carries the values as variables of the arguments.
+// Arguments are the actual values that are passed to the function. That means, when we call a function, we pass the arguments to the function. and that arguments are stored in the parameters (variable) of the function.
+
