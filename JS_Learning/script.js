@@ -234,3 +234,20 @@ console.log(yahahorahaireturn());
 // Parameters are the names used in the function definition. which carries the values as variables of the arguments.
 // Arguments are the actual values that are passed to the function. That means, when we call a function, we pass the arguments to the function. and that arguments are stored in the parameters (variable) of the function.
 
+
+// Starting again with the functions :
+// Function is a block of code that reduse, reuse the code and reduces the line of repetation. It can be only run when the function is call.
+// Js has divided into two parts : Es5 and Es6 version
+// ES5 is divided into three parts : (a) Function statement, (b) Function Expression, (c) Anonymous Functions
+// ES6 is divided into one part : FAT ARROW FUNCTION
+// Fat Arrow FUnction is further divided into three parts : (a)Basic Fat Arrow Function, (b) Fat Arrow function with one parameter, (c) Fat arrow function with implicit return
+
+// Js mein function normal programming language jaise nahi hai , iska matlab hai, yaha par js mein, function ka type batana nahi pada. Bas aapko function word likhna padega. Yeh first class function hai.
+
+// Indepth : Js mein functions First class function kehlate hai kyuki jiska matlab ki js mein functions ko hum variable or value ki tarah treat kiya jaa sakhta hai.
+
+// What is function
+// Why we need
+// How to use
+
+// Extras we should know
