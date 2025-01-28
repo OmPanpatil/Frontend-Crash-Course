@@ -223,12 +223,12 @@ var ans = addd();
 // The return statement can be used to return a value from the function.
 // return ka matlab hua, jaha par bhi return lagega uske aage jou bhi likhoge wou jayega jaha par function call hua tha, return function kae andar lagta hai
 
-function returnfunctionkarega(){
-    return "Return Statement";
-}
+// function returnfunctionkarega(){
+//     return "Return Statement";
+// }
 
-var yahahorahaireturn = returnfunctionkarega();
-console.log(yahahorahaireturn());
+// var yahahorahaireturn = returnfunctionkarega();
+// console.log(yahahorahaireturn());
 
 // Parameters and Arguments:
 // Parameters are the names used in the function definition. which carries the values as variables of the arguments.
@@ -246,7 +246,21 @@ console.log(yahahorahaireturn());
 
 // Indepth : Js mein functions First class function kehlate hai kyuki jiska matlab ki js mein functions ko hum variable or value ki tarah treat kiya jaa sakhta hai.
 
-// What is function
+// What is function :
+// koi essa code jou aapko baar baar use karna ho, ya fir koi essa code jisko turant na chalana ho par kabhi chalana ho, ussey function mein daal sakte hai.
+
+function khana(){
+    console.log("bartaan uthao");
+    console.log("chawal daalo");
+    console.log("paani daalo");
+    console.log("gas par chadao for 20 minutes");
+    console.log("gas karke thanda hone do");
+    console.log("khaalo");
+}
+
+khana();
+
+
 // Why we need
 // How to use
 
