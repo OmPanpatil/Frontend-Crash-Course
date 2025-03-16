@@ -1,3 +1,33 @@
+// Js --> 
+// (1)Js the language (code likhkar seekhna, main features) : It was developed by Brenden Eigg in 20 days and because of this it come up with ECMASCRIPT community to overcome the difficulties. Including bothe new features installing and all.
+// Js is divided into two parts : ES5(before) and ES6(after)
+// Basics : File connect karna, load karna script ko, basics of code executions, grammar and understanding of errors.
+// Kaha 
+// Inbuitl-features
+// Variables, COnstants
+// Compilers and interpreters
+// Windows
+// Types
+// Conditionals,
+// Loops
+// Functions : 6 types of functions
+// Arrays
+// objects
+// prototypes
+// Prototypal inheritance
+// Asynchronous JS
+// ES6 climax
+// Questions related to all
+
+
+
+
+// (2)Js the DOM (Code likhkar cheezein banana seekhna) : Creating phase
+
+
+
+
+
 console.log("Hello World");
 alert("Facing some connection issues, please try again later");
 prompt("Please tell us your suitable time?");
